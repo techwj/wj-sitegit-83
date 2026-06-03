@@ -1,0 +1,59 @@
+{
+  "siteId": "free-attractions-list",
+  "generatedAt": "2026-06-02T19:22:10.913916",
+  "categories": [
+    "beginner-free-attractions-list",
+    "advanced-free-attractions-list",
+    "tips-free-attractions-list",
+    "history-free-attractions-list",
+    "trending-free-attractions-list",
+    "tutorials-free-attractions-list"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-free-attractions-list",
+      "category_name": "Beginner Free Attractions List"
+    },
+    {
+      "category_slug": "advanced-free-attractions-list",
+      "category_name": "Advanced Free Attractions List"
+    },
+    {
+      "category_slug": "tips-free-attractions-list",
+      "category_name": "Free Attractions List Tips"
+    },
+    {
+      "category_slug": "history-free-attractions-list",
+      "category_name": "Free Attractions List History"
+    },
+    {
+      "category_slug": "trending-free-attractions-list",
+      "category_name": "Trending Free Attractions List"
+    },
+    {
+      "category_slug": "tutorials-free-attractions-list",
+      "category_name": "Free Attractions List Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "free-attractions-list",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Free Attractions List Central",
+    "articles_per_row": 1
+  }
+}

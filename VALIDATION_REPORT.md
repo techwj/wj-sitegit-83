@@ -1,0 +1,88 @@
+# Validation Report - free-attractions-list
+
+Generated: 2026-06-02T19:22:10.913615
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Free Attractions List
+- ✓ Article word count OK: Beginner Free Attractions List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Free Attractions List
+- ✓ Article word count OK: Beginner Free Attractions List Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Free Attractions List
+- ✓ Article word count OK: Beginner Free Attractions List in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Free Attractions List
+- ✓ Article word count OK: Common Mistakes in Beginner Free Attractions List
+- ✓ Article word count OK: Beginner Free Attractions List for Beginners
+- ✓ Article word count OK: Advanced Beginner Free Attractions List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Free Attractions List
+- ✓ Article word count OK: Advanced Free Attractions List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Free Attractions List
+- ✓ Article word count OK: Advanced Free Attractions List Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Free Attractions List
+- ✓ Article word count OK: Advanced Free Attractions List in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Free Attractions List
+- ✓ Article word count OK: Common Mistakes in Advanced Free Attractions List
+- ✓ Article word count OK: Advanced Free Attractions List for Beginners
+- ✓ Article word count OK: Advanced Advanced Free Attractions List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Free Attractions List Tips
+- ✓ Article word count OK: Free Attractions List Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Free Attractions List Tips
+- ✓ Article word count OK: Free Attractions List Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Free Attractions List Tips
+- ✓ Article word count OK: Free Attractions List Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Free Attractions List Tips
+- ✓ Article word count OK: Common Mistakes in Free Attractions List Tips
+- ✓ Article word count OK: Free Attractions List Tips for Beginners
+- ✓ Article word count OK: Advanced Free Attractions List Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Free Attractions List History
+- ✓ Article word count OK: Free Attractions List History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Free Attractions List History
+- ✓ Article word count OK: Free Attractions List History Tips and Best Practices
+- ✓ Article word count OK: The History of Free Attractions List History
+- ✓ Article word count OK: Free Attractions List History in 2026: Current Trends
+- ✓ Article word count OK: Future of Free Attractions List History
+- ✓ Article word count OK: Common Mistakes in Free Attractions List History
+- ✓ Article word count OK: Free Attractions List History for Beginners
+- ✓ Article word count OK: Advanced Free Attractions List History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Free Attractions List
+- ✓ Article word count OK: Trending Free Attractions List: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Free Attractions List
+- ✓ Article word count OK: Trending Free Attractions List Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Free Attractions List
+- ✓ Article word count OK: Trending Free Attractions List in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Free Attractions List
+- ✓ Article word count OK: Common Mistakes in Trending Free Attractions List
+- ✓ Article word count OK: Trending Free Attractions List for Beginners
+- ✓ Article word count OK: Advanced Trending Free Attractions List Techniques
+- ✓ Article word count OK: The Ultimate Guide to Free Attractions List Tutorials
+- ✓ Article word count OK: Free Attractions List Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Free Attractions List Tutorials
+- ✓ Article word count OK: Free Attractions List Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Free Attractions List Tutorials
+- ✓ Article word count OK: Free Attractions List Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Free Attractions List Tutorials
+- ✓ Article word count OK: Common Mistakes in Free Attractions List Tutorials
+- ✓ Article word count OK: Free Attractions List Tutorials for Beginners
+- ✓ Article word count OK: Advanced Free Attractions List Tutorials Techniques
+- ✓ Ad configuration validated
